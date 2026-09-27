@@ -1,9 +1,9 @@
+streamlit
 tensorflow
-opencv-python-headless
 numpy
+opencv-python-headless
+Pillow
+h5py
+pandas
 matplotlib
 scikit-learn
-streamlit
-pandas
-pillow
-streamlit
