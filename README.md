@@ -4,7 +4,7 @@ A Deep Learning based Facial Emotion Recognition System built using TensorFlow, 
 
 ## 🚀 Live Demo
 
-https://emotion-detection-ai-rqzjekybr3dzajm5dzxv8.streamlit.app
+https://emotion-detection-ai-rqzjekybr3dzajmj5dzxv8.streamlit.app/
 
 ## ✨ Features
 
